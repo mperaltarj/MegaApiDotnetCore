@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
-using Megaman.Models;
+using api.Domain.Entities;
 
 namespace Megaman.Database
 {
